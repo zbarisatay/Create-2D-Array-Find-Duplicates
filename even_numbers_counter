@@ -1,0 +1,3 @@
+1. Create a two-dimensional dynamic array. User has to input through a keyboard the amount of rows and columns, then it's necessary to generate array items in a range [0,10].
+2. To print (output) generated array items.
+3. To find and output the amount of the even numbers, using linear searching algorithm.
